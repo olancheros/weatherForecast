@@ -1,7 +1,7 @@
 """
     This is a simple program to get the weather forecast report from Google.
 
-    The program will use the BeautifulSoap library that is used to make screen-scraping, and the requests module that helps to integrate the Python programs with the web services.
+    The program will use the BeautifulSoup library that is used to make screen-scraping, and the requests module that helps to integrate the Python programs with the web services.
 
     To install beautifulsoup use the following command: pip install beautifulsoup
 
